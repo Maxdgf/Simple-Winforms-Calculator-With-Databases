@@ -7,6 +7,7 @@ namespace SuperCalculator
 {
     public partial class Form1 : Form
     {
+        //Main Screen
         private bool isEnabled = false;
         private System.Timers.Timer timer;
         public Form1()
