@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace SuperCalculator
 {
+    //Help info Screen
     public partial class Form4 : Form
     {
         public Form4()
