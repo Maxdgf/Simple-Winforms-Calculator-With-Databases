@@ -12,6 +12,7 @@ using System.Data.SQLite;
 
 namespace SuperCalculator
 {
+    //Settings Screen
     public partial class Form2 : Form
     {
         public Form2()
